@@ -40,16 +40,19 @@ System call adalah antarmuka antara program aplikasi dan kernel yang memungkinka
 ## Kode / Perintah
 Tuliskan potongan kode atau perintah utama:
 ```bash
-uname -a
-lsmod | head
-dmesg | head
+strace ls
+strace -e trace=open,read,write,close cat /etc/passwd
+dmesg | tail -n 10
 ```
 
 ---
 
 ## Hasil Eksekusi
 Sertakan screenshot hasil percobaan atau diagram:
-![Screenshot hasil](screenshots/example.png)
+![Screenshot hasil](./screenshots/syscall_ls.jpeg)
+![Screenshot hasil](./screenshots/syscall_ls%20(2).jpeg)
+![Screenshot hasil](./screenshots/syscall_ls%20(3).jpeg)
+
 
 ---
 
