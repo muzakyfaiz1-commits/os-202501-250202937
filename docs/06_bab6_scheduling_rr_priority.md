@@ -88,7 +88,7 @@ Setelah menyelesaikan tugas ini, mahasiswa mampu:
 ### Quiz
 Tuliskan jawaban di bagian **Quiz** pada laporan:
 1. Apa perbedaan utama antara Round Robin dan Priority Scheduling?  
-2. Apa pengaruh besar/kecilnya *time quantum* terhadap performa sistem?  
+2. Apa pengaruh besar/kecilnya *time quantum* terhadap performa sistem?    
 3. Mengapa algoritma Priority dapat menyebabkan *starvation*?  
 
 ---
