@@ -137,8 +137,8 @@ lscpu: Menampilkan informasi detail CPU.
 
 ## Refleksi Diri
 Tuliskan secara singkat:
-- Apa bagian yang paling menantang minggu ini?  
-- Bagaimana cara Anda mengatasinya?  
+-  yang paling menantang yaitu ketika masuk, laptop tidak kuat.
+-  cara mengatasinya yaitu terus belajar. 
 
 ---
 
