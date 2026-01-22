@@ -5,8 +5,8 @@ Topik: Virtualisasi Menggunakan Virtual Machine
 ---
 
 ## Identitas
-- **Nama**  : Pasya Awan Rizky Saputro  
-- **NIM**   : 250202959  
+- **Nama**  : Faizal Muzaki
+- **NIM**   : 250202937 
 - **Kelas** : 1IKRB
 
 ---
